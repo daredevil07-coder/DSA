@@ -7,7 +7,7 @@
 // Array:   10 20 20 20 30 40
 // Index:    0  1  2  3  4  5
 // Target: 20
-
+// kn ef
 
 #include <iostream>
 using namespace std;
