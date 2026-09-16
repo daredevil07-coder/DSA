@@ -90,3 +90,38 @@
 // = means assignment
 
 // == means comparison
+
+
+
+
+// 📘 Next Concept: Visited Array
+
+// A visited array stores whether an element has already been counted.
+
+// Example:
+
+// bool visited[7] = {false};
+
+// Initially:
+
+// false false false false false false false
+
+// false → not counted yet
+
+// true → already counted
+
+// ⏱️ Complexity
+
+// Time Complexity: O(n²)
+
+// Space Complexity: O(n)
+
+
+// 📘 Chapter 2: ARRAYS
+// 🔢 Subchapter 2.8 — Counting & Frequency
+// 🎯 Topic: Count Duplicate Elements
+// 🧠 Meaning
+
+// A duplicate element is a value that appears more than once.
+
+// Example:
